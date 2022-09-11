@@ -5,7 +5,7 @@
 An accessibility refactor of the Horiseon webpage utilizing semantic HTML and CSS along with alternate descriptions for images. 
 
 Screenshot:
-![Horiseon](/Users/johngrant/Desktop/Horiseon-Screenshot.png)
+![Horiseon](/Users/johngrant/Desktop/Horiseon-Screenshot.png?raw=true "Horiseon Site Screenshot")
 
 ## Usage
 
